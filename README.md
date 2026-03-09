@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me
 
-<!--
-**MishMich03/MishMich03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Michelle
 
-Here are some ideas to get you started:
+Interests
+- Software engineering
+- Backend development
+- problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+- TournamentOrganiser
+- Character Compass
+- Hackathon project
+
+GitHub
+github.com/MishMich03
