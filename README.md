@@ -5,7 +5,7 @@ Built with HTML, CSS, JavaScript, and plenty of debugging sessions.
 ### Tournament Organizer
 A logic‑driven event management tool that tracks players, matchups, and bracket progression.
 Designed to keep things fair, consistent, and fun.
-### Hackathon 2026 Prototype
+### Johnny's Adventure
 A fast paced team project where we built a working prototype under time pressure.
 Lots of collaboration, lots of Git commits, and lots of learning.
 ### Mini Projects
